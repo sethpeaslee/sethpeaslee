@@ -12,7 +12,8 @@
    ![courseraFINAL](https://github.com/sethpeaslee/imagines-in-readme/assets/138176708/8cb61135-e0fa-449a-8567-5965cbcc335f)
 
 - <b>Flatiron School Cybersecurity Analytics Certificate</b>
-  - [Certificate](https://imgur.com/a/S2HbXGD)
+  ![Cybersecurity certificate](https://github.com/sethpeaslee/imagines-in-readme/assets/138176708/736fbb5f-c460-41a8-867a-6ef8f5ebadea)
+
 
   
 <h2> 🤳 Connect with me:</h2>
