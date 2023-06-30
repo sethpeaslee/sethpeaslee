@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Active Directory Home Lab](https://github.com/sethpeaslee/LABURL)
+  - [Active Directory Home Lab](https://github.com/sethpeaslee/Active-Directory-Lab)
 
 
 <h2>📃 Certifications</h2>
