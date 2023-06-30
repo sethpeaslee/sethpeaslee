@@ -9,7 +9,8 @@
 <h2>📃 Certifications</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
-  - [Certificate](https://imgur.com/a/ZxdeYtv)
+   ![courseraFINAL](https://github.com/sethpeaslee/imagines-in-readme/assets/138176708/8cb61135-e0fa-449a-8567-5965cbcc335f)
+
 - <b>Flatiron School Cybersecurity Analytics Certificate</b>
   - [Certificate](https://imgur.com/a/S2HbXGD)
 
